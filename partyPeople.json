@@ -1,55 +1,10 @@
 {
     "people": [
         {
-            "name": "Alex O"
+            "name": "Person Name 1"
         },
         {
-            "name": "Alex W"
-        },
-        {
-            "name": "Alex A"
-        },
-        {
-            "name": "Alec"
-        },
-        {
-            "name": "Jack"
-        },
-        {
-            "name": "Sy"
-        },
-        {
-            "name": "Daved"
-        },
-        {
-            "name": "Will"
-        },
-        {
-            "name": "Lance"
-        },
-        {
-            "name": "Max"
-        },
-        {
-            "name": "Cody"
-        },
-        {
-            "name": "Emily"
-        },
-        {
-            "name": "Graeme"
-        },
-        {
-            "name": "Gary"
-        },
-        {
-            "name": "Matt B"
-        },
-        {
-            "name": "Sam"
-        },
-        {
-            "name": "Little Sam"
+            "name": "Person Name 2"
         }
     ]
 }
